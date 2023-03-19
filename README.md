@@ -42,7 +42,7 @@ Rosenberg's Audio Fix: https://www.gtagarage.com/mods/show.php?id=22234
 
 Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
 
-Atmosphere Skydome 2.0: https://www.mixmods.com.br/2018/09/vc-atmosphere-skydome-ceu-realista/
+VBDec: https://www.mixmods.com.br/2021/07/iii-vc-vbdec-sons-hd-do-ps2-para-pc/
 
 Radio Change Down Fix: https://www.mixmods.com.br/2016/09/vc-radio-change-down-fix-corrigir-mudanca-de-radio/
 
