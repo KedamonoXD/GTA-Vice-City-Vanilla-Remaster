@@ -34,3 +34,22 @@ ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efei
 
 Sand Castles: https://libertycity.net/files/gta-vice-city/125647-pesochnye-zamki.html
 
+Improved Default Armoury: https://www.mediafire.com/file/vbad4ccf3ucjppz/VC_-_Improved_Default_Armoury.rar/file
+
+Fijo de las ventanas después de la explosión: https://gamemodding.com/es/gta-vice-city/scripts/74009-fiks-okon-posle-vzryva.html
+
+Rosenberg's Audio Fix: https://www.gtagarage.com/mods/show.php?id=22234
+
+Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
+
+Atmosphere Skydome 2.0: https://www.mixmods.com.br/2018/09/vc-atmosphere-skydome-ceu-realista/
+
+Radio Change Down Fix: https://www.mixmods.com.br/2016/09/vc-radio-change-down-fix-corrigir-mudanca-de-radio/
+
+GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-minimap/
+
+Remove 0:https://gamemodding.com/en/gta-vice-city/scripts/74012-udalenie-nuley.html
+
+Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
+
+Interfaz HD: https://sharemods.com/yqqi3zg8ql88/VC_-Interfaz_HD.rar.html
